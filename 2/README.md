@@ -1,4 +1,4 @@
-# The YouTube Content Evolution Problem
+# Evolution of Tech Content Creators
 
 This is a solution to the problem: https://arpitbhayani.me/math/2
 

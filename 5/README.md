@@ -1,6 +1,6 @@
-# Social Network Memory Crunch Challenge
+# Too Hot, Too Humid, Too Many People
 
-This is a solution to the problem: https://arpitbhayani.me/math/4
+This is a solution to the problem: https://arpitbhayani.me/math/5
 
 ## Build and Run
 
